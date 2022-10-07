@@ -6,7 +6,7 @@
  
  💞️ I’m looking to collaborate on anything 
  
- 📫 Don't send I don't really check it, give me a knock messenger then we can chat
+ 📫 Don't send me mails I don't really check it, give me a knock messenger then we can chat
 
 <!---
 Galib2017/Galib2017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
