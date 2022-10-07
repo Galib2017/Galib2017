@@ -1,7 +1,11 @@
- 👋 Hi, I’m @Galib2017
+ 👋 Hi, I’m @Galib2017 
+ 
  👀 I’m interested in making games and productivity software
+  
  🌱 I’m currently learning C# .NET WPF, php, lua love2d
+ 
  💞️ I’m looking to collaborate on anything 
+ 
  📫 Don't send I don't really check it, give me a knock messenger then we can chat
 
 <!---
